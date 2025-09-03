@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Purva</h1>
 <h3 align="center">🚀 AI/ML Enthusiast | Full-Stack Developer | Problem Solver</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=purvamiglani&label=Profile%20views&color=0e75b6&style=flat" alt="purvamiglani" /> 
+    <img src="https://komarev.com/ghpvc/?username=Purva089&label=Profile%20views&color=ff69b4&style=flat" alt="Purva089" /> 
 </p>
 
 ---
@@ -13,16 +13,16 @@
 - 🌱 Learning **Cloud Deployments, CI/CD, and Advanced ML Pipelines**  
 - 💬 Ask me about **Python, Node.js, React, Power BI, Machine Learning**  
 - 📫 Reach me at **purvamiglani28@gmail.com**  
-- 📄 Know more about me: [LinkedIn](https://www.linkedin.com/in/purva-miglani/)  
+- 📄 Know more about me: [LinkedIn](https://www.linkedin.com/in/purva-miglani-94b879252/)  
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/purva-miglani/" target="_blank">
+<a href="https://www.linkedin.com/in/purva-miglani-94b879252/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://github.com/purvamiglani" target="_blank">
+<a href="https://github.com/Purva089" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 </p>
@@ -48,12 +48,12 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=purvamiglani&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=purvamiglani&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Purva089&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Purva089&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150"/>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=purvamiglani&theme=tokyonight" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Purva089&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
