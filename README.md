@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Purva</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | Full-Stack Developer | Problem Solver | Gen AI</h3>
 
 <p align="center">
     <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="AI Developer Banner" width="60%" />
